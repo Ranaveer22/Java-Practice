@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Perfect",
+            "request": "launch",
+            "mainClass": "Perfect",
+            "projectName": "Java_Projects_f0187566"
+        },
+        {
+            "type": "java",
+            "name": "Advanced_2",
+            "request": "launch",
+            "mainClass": "Practice_6.Advanced_2",
+            "projectName": "Java_Projects_f0187566"
+        },
+        {
+            "type": "java",
+            "name": "Advanced_1",
+            "request": "launch",
+            "mainClass": "Advanced_1",
+            "projectName": "Java_Projects_f0187566"
+        },
+        {
+            "type": "java",
+            "name": "Experiment_2",
+            "request": "launch",
+            "mainClass": "Experiment_2",
+            "projectName": "Java_Projects_f0187566"
+        },
+        {
+            "type": "java",
+            "name": "Experiment_2",
+            "request": "launch",
+            "mainClass": "Practice_4.Experiment_2",
+            "projectName": "Java_Projects_f0187566"
+        },
+        {
+            "type": "java",
+            "name": "Experiment",
+            "request": "launch",
+            "mainClass": "Experiment",
+            "projectName": "Java_Projects_f0187566"
+        },
+        {
+            "type": "java",
+            "name": "Magic_Prime",
+            "request": "launch",
+            "mainClass": "Magic_Prime",
+            "projectName": "Java_Projects_f0187566"
+        },
+        {
+            "type": "java",
+            "name": "Magic_Prime_1",
+            "request": "launch",
+            "mainClass": "Magic_Prime_1",
+            "projectName": "Java_Projects_f0187566"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
